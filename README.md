@@ -1,2 +1,2 @@
 # SVG-animation
-SVG animation with GSAP
+SVG animation using GSAP 3.0
